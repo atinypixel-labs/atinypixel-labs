@@ -1,11 +1,11 @@
 # Hola, Fellow Nerd!
 ## I'm a strategy-driven creative web wizard who can solve even your most complicated challenges.
 
-I'm proficient for developing stunning websites, webapps and mobile apps. My main focus is on all 3 expects, i.e. UX, UI & Backend.
+I'm proficient for developing stunning websites, webapps & mobile apps and their equivalent robust backend architecture. My main focus is on all 4 expects, i.e. UX, UI, Backend & Security.
 
-For backend, I mainly use Laravel & Django which are great frameworks & for advance UI's I rely on Next.js (React.js Framework) which is another great framework. For mobile applications, I use Flutter (by Google) for both iOS and Android app development. Moreover, I use frameworks like Django, Laravel, Express JS, Hapi JS etc for API development.
+For backend, I mainly use **Laravel & Django** which are great MVC frameworks & for advance UI's I rely on **Next.js** which is a great framework based on React.js. For mobile applications, I use **Flutter (by Google)** which is a hybrid solution to develop application for both platforms iOS and Android. Moreover, I use frameworks like **Django, Laravel, Express.js, Hapi.js** for API development.
 
-*I assure you 100% quality standards using best modern technologies.*
+_I assure you 100% quality standards using best modern technologies._
 
 ---
 
