@@ -1,18 +1,15 @@
-# Hola, Fellow Nerd!
-## I'm a strategy-driven creative web wizard who can solve even your most complicated challenges.
+#### Hello Visitor,
 
-I'm proficient for developing stunning websites, webapps & mobile apps and their equivalent robust backend architecture. My main focus is on all 4 expects, i.e. UX, UI, Backend & Security.
+### We're a full-stack and mobile development company delivering cutting-edge digital solutions especially in Healthcare Industry with a focus on microscopic precision and monumental impact.
 
-For backend, I mainly use **Laravel & Django** which are great MVC frameworks & for advance UI's I rely on **Next.js** which is a great framework based on React.js. For mobile applications, I use **Flutter (by Google)** which is a hybrid solution to develop application for both platforms iOS and Android. Moreover, I use frameworks like **Django, Laravel, Express.js, Hapi.js** for API development.
-
-_I assure you 100% quality standards using best modern technologies._
+_We assure you 100% quality standards using best modern technologies._
 
 ---
 
-<p align="left"> <a href="https://twitter.com/websorcier" target="blank"><img src="https://img.shields.io/twitter/follow/websorcier?logo=twitter&style=for-the-badge" alt="websorcier" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
+### Connect with me
 <p align="left">
-<a href="https://twitter.com/websorcier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="websorcier" height="30" width="40" /></a>
-<a href="https://instagram.com/websorcier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="websorcier" height="30" width="40" /></a>
+	<a href="mailto:atinypixel.labs@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/484995/email-part-2.svg" alt="atinypixel_labs" height="30" width="40" /></a>
+	<a href="https://wa.me/+917859832932" target="blank"><img align="center" src="https://www.svgrepo.com/show/475692/whatsapp-color.svg" alt="atinypixel_labs" height="30" width="40"/></a>
+	<a href="https://twitter.com/atinypixel_labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atinypixel_labs" height="30" width="40" /></a>
+	<a href="https://instagram.com/atinypixel_labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atinypixel_labs" height="30" width="40" /></a>
 </p>
