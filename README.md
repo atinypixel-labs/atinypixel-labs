@@ -6,7 +6,7 @@
 
 # atinypixel Labs
 
-**Microscopic Precision, Monumental Impact**
+> **Microscopic Precision, Monumental Impact**
 
 atinypixel Labs is a boutique engineering studio specializing in **secure, scalable, and high-performance** digital products. We work with startups, enterprises, and innovation-driven teams across SaaS, MedTech, logistics, education, AI, and cloud-native industries.
 
@@ -105,7 +105,7 @@ We build products with a balance of engineering, strategy, and design:
 * Long-term support and scalable development paths
 * Deep involvement and accountability — we act as a true partner, not a vendor
 
-atinypixel Labs operates lean by choice:
+> atinypixel Labs operates lean by choice:
 **Small dedicated team. High precision. Strong ownership.**
 
 ---
